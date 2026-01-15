@@ -37,6 +37,6 @@ Customer satisfaction scores were declining due to increasing customer complaint
 
 ## Deliverables
 - Full technical analysis report (PDF)
-- Executive-style presentation summarising insights and recommendations
+- Executive-style presentation summarising insights and recommendations (PDF)
 - Tableau dashboard (screenshots included in presentation)
 
