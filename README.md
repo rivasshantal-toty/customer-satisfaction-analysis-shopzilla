@@ -36,7 +36,7 @@ Customer satisfaction scores were declining due to increasing customer complaint
 - Encourage detailed customer feedback through improved collection methods
 
 ## Deliverables
-- Full analysis report (PDF)
-- Tableau dashboard
-- Project presentation
+- Full technical analysis report (PDF)
+- Executive-style presentation summarising insights and recommendations
+- Tableau dashboard (screenshots included in presentation)
 
